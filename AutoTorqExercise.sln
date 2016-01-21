@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoTorqExercise", "AutoTorqExercise\AutoTorqExercise.csproj", "{C5BCC84B-4B81-4072-8DBF-1B75075DDB9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoTorqTesting", "AutoTorqTesting\AutoTorqTesting.csproj", "{F9E641F0-C506-4464-BC6A-C40DD81E2390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5BCC84B-4B81-4072-8DBF-1B75075DDB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5BCC84B-4B81-4072-8DBF-1B75075DDB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5BCC84B-4B81-4072-8DBF-1B75075DDB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5BCC84B-4B81-4072-8DBF-1B75075DDB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9E641F0-C506-4464-BC6A-C40DD81E2390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E641F0-C506-4464-BC6A-C40DD81E2390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E641F0-C506-4464-BC6A-C40DD81E2390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E641F0-C506-4464-BC6A-C40DD81E2390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
